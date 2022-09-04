@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "dependencies": {
+    "@artem18rus/dz3-1--platformsnew": "^1.0.0"
+  }
+}
